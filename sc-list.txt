@@ -1,1 +1,2 @@
+<cspapp>/test.csp
 DataMining.pkg
